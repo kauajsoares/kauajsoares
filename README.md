@@ -2,7 +2,8 @@
 
 **`Analista de dados`**
 
-Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília. Entusiasta da área da tecnologia, focado em ciência de dados e automação 
+Atualmente atuando na alise de dados, produção e manutenção de dashboards iterativos usando PowerBI, manutenção e criaçao de códigos em python para ETL
+Natural de Brasília, 21 anos, cursando o ultimo semestre de Engenharia de Software na Universidade Católica de Brasília
 
 <p align="left">
     <a href="https://docs.google.com/presentation/d/1bBzlBfVcbPk193_Pt0Q6SXgSSB2_Udmr1gMdhbfcf0s/edit?usp=sharing">
