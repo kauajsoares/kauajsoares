@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília. Entusiasta da área da tecnologia, focado em ciência de dados  e automação 
+Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília. Entusiasta da área da tecnologia, focado em ciência de dados e automação 
 
 <p align="left">
     <a href="https://docs.google.com/presentation/d/1bBzlBfVcbPk193_Pt0Q6SXgSSB2_Udmr1gMdhbfcf0s/edit?usp=sharing">
@@ -18,13 +18,13 @@ Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo sem
             title="GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/github-000000/kauajsoares?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=&logoColor=white"
         />
-    </a>
     <a href="https://www.linkedin.com/in/kauajsoares/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1756C2?style=for-the-badge&logo=In&logoColor=white)](https://www.linkedin.com/in/kaua-soares-5aaabb264/"
         />
+    </a>
     </a>
     
 </p>
@@ -40,6 +40,14 @@ Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo sem
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
 />
 <img 
     align="left" 
