@@ -2,8 +2,9 @@
 
 **`Analista de dados`**
 
-Atualmente atuando na area de alise de dados, produção e manutenção de dashboards iterativos usando PowerBI, manutenção e criaçao de códigos em python para ETL, para o Ministério de Minas e Energia<br/>
-Natural de Brasília, 21 anos, cursando o ultimo semestre de Engenharia de Software na Universidade Católica de Brasília
+Atualmente atuando na área de alise de dados, produção e manutenção de dashboards interativos usando Power BI, manutenção e criação de códigos em Python para ETL, para o Ministério de Minas e Energia<br/>
+Natural de Brasília, 21 anos, cursando o último semestre de Engenharia de Software na Universidade Católica de Brasília
+
 
 <p align="left">
     <a href="https://docs.google.com/presentation/d/1bBzlBfVcbPk193_Pt0Q6SXgSSB2_Udmr1gMdhbfcf0s/edit?usp=sharing">
