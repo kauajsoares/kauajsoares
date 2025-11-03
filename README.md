@@ -1,16 +1,73 @@
-## Hi there 👋
+# Kauã Henrique J. Soares
 
-<!--
-**kauajsoares/kauajsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de dados`**
 
-Here are some ideas to get you started:
+Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://docs.google.com/presentation/d/1bBzlBfVcbPk193_Pt0Q6SXgSSB2_Udmr1gMdhbfcf0s/edit?usp=sharing">
+        <img 
+            alt="PowerBI" 
+            title="PowerBI" 
+            src="https://custom-icon-badges.demolab.com/badge/PowerBi-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.linkedin.com/in/kaua-soares-5aaabb264/"
+        />
+    </a>
+    <a href="https://github.com/kauajsoares">
+        <img 
+            alt="GitHub" 
+            title="GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/github-000000/kauajsoares?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/kauajsoares/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1756C2?style=for-the-badge&logo=In&logoColor=white)](https://www.linkedin.com/in/kaua-soares-5aaabb264/"
+        />
+    </a>
+    
+</p>
+
+
+---
+
+### Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<br/>
+<br/>
+
+### Estatísticas
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauajsoares&theme=slateorange&layout=compact&custom_title=Tecnologias&langs_count=9&hide_progress=true" 
+  />
+
+</p>
