@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília
+Olá, Me chamo Kauã Soares, sou natural de Brasilia, Estou cursandoo ultimo semestre engenharia de software pela Universidade Católica de Brasília. Entusiasta da área da tecnologia, focado em ciência de dados  e automação 
 
 <p align="left">
     <a href="https://docs.google.com/presentation/d/1bBzlBfVcbPk193_Pt0Q6SXgSSB2_Udmr1gMdhbfcf0s/edit?usp=sharing">
