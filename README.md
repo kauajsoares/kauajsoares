@@ -75,9 +75,9 @@ Natural de Brasília, 21 anos, cursando o último semestre de Engenharia de Soft
 
 <img 
       align="left" 
-      alt="GitHub" 
+      alt="GitHub stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauajsoares&theme=slateorange&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauajsoares&theme=slateorange&layout=compact&custom_title=Tecnologias&langs_count=0" 
   />
 
 </p>
