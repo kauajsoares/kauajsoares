@@ -14,7 +14,7 @@ Natural de Brasília, 21 anos, cursando o último semestre de Engenharia de Soft
             src="https://custom-icon-badges.demolab.com/badge/PowerBi-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.linkedin.com/in/kaua-soares-5aaabb264/"
         />
     </a>
-    <a href="https://github.com/kauajsoares">
+    <a href="https://github.com/kauajsoares?tab=repositories">
         <img 
             alt="GitHub" 
             title="GitHub" 
